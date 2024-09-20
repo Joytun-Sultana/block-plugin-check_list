@@ -4,20 +4,20 @@
 
 # Key Features
 ### After adding this block plugin for the first time, the Todo list will be empty
-<img src='./image/initial_list.jpeg' width="500">
+<img src='./image/initial_list.jpeg' width="400">
 
 
 ### Task can be added and saved in databse through 'Add Task' button, click 'Add Task'
-<img src='./image/add_task.jpeg' width="500">
+<img src='./image/add_task.jpeg' width="400">
 
 ### User can psee their Todo list
-<img src='./images/todo_list.png' width="500">
+<img src='./image/todo_list.png' width="400">
 
 ### Users can mark their task after completing themSSS
-<img src='./images/mark_done.jpeg' width="500">
+<img src='./image/mark_done.jpeg' width="400">
 
 ### If Users mistakenly mark their task, they can unmark that again 
-<img src='./images/unmark_task.jpeg' width="500">
+<img src='./image/unmark_task.jpeg' width="400">
 
 
 
