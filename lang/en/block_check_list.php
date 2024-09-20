@@ -24,6 +24,6 @@
 
 $string['addtask'] = 'Add a Task';
 $string['notasks'] = 'No tasks found';
-$string['pluginname'] = 'Check List';
+$string['pluginname'] = 'Todo List';
 $string['taskcreated'] = 'Task created successfully';
 
